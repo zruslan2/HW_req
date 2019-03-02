@@ -10,7 +10,8 @@ namespace REQUESTS
     {
         static void Main(string[] args)
         {
-            REQUEST sal = new SALES();            
+            REQUEST sal = new SALES();  
+                      
         }
     }
 }
